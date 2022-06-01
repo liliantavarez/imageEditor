@@ -1,0 +1,22 @@
+{
+  "name": "imageeditor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liliantavarez/imageEditor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liliantavarez/imageEditor/issues"
+  },
+  "homepage": "https://github.com/liliantavarez/imageEditor#readme",
+  "dependencies": {
+    "sharp": "^0.30.6"
+  }
+}
