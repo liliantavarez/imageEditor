@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/liliantavarez/imageEditor#readme",
   "dependencies": {
+    "pngquant-bin": "^8.0.1",
     "sharp": "^0.30.6"
+  },
+  "devDependencies": {
+    "compress-images": "^2.0.5"
   }
 }
